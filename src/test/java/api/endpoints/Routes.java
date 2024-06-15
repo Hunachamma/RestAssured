@@ -10,8 +10,7 @@ public class Routes {
 	public static String user_put_url=base_url+"/user/{username}";
 	public static String user_delete_url=base_url+"/user/{username}";
 	
-	//Store model
-	public static String store_post_url=base_url+"/store/order";
+	
 	
 	
 
